@@ -2,12 +2,12 @@
 
 ![Screenshot (311)](https://user-images.githubusercontent.com/95771731/197395130-1b6f48be-3718-4f15-93cc-ae63dc552c6f.png)
 
-This is an Linkdin Responsive Web Page Clone.
+This is a Linkedin Responsive Web Page Clone.
 
-Here is the link of Home-page of linkdin clone
+Here is the link of Home-page of linkedin clone
 http://127.0.0.1:5500/index.html
 
-Here is the link of Profile-page of linkdin clone
+Here is the link of Profile-page of linkedin clone
 http://127.0.0.1:5500/profile.html
 
 Tools & technologies: 
