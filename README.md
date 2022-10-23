@@ -4,7 +4,9 @@
 
 This is an Linkdin Responsive Web Page Clone.
 
+http://127.0.0.1:5500/index.html
 
+http://127.0.0.1:5500/profile.html
 
 Tools & technologies: 
 
