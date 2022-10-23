@@ -4,8 +4,10 @@
 
 This is an Linkdin Responsive Web Page Clone.
 
+Here is the link of Home-page of linkdin clone
 http://127.0.0.1:5500/index.html
 
+Here is the link of Profile-page of linkdin clone
 http://127.0.0.1:5500/profile.html
 
 Tools & technologies: 
